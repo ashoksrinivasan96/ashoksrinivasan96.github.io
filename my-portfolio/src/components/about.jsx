@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA, nah just kidding</p>
                 </div>
                 </div>
             </div>

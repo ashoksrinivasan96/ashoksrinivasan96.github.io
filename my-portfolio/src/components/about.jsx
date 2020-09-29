@@ -37,7 +37,7 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
+                    <h3>React Web Development </h3>
                     <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
                 </div>
                 </div>

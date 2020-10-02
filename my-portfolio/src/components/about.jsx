@@ -13,9 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>🔭 I’m currently working on making my portfolio website
+                    <p>🔭 I’m currently working on making my portfolio website</p>
 
-                    👍 I've recently finished working on a restaurant website made with Reactjs
+                    <p>👍 I've recently finished working on a restaurant website made with Reactjs</p>
 
                     🌱 I’m currently learning Python
 

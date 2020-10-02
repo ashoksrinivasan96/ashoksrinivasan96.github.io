@@ -17,7 +17,7 @@ export default class About extends Component {
 
                     <p>👍 I've recently finished working on a restaurant website made with Reactjs</p>
 
-                    🌱 I’m currently learning Python
+                    <p>🌱 I’m currently learning Python
 
                     👯 I’m looking to collaborate on Open Source Projects
 

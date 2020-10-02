@@ -25,9 +25,9 @@ export default class About extends Component {
 
                     <p>💬 Ask me about ideas and solutions to existing problems
 
-                    😄 Hobbies: Playing Dota, reading about history, making comics and catching up on news.
+                    <p>😄 Hobbies: Playing Dota, reading about history, making comics and catching up on news.</p>
 
-                    ⚡ Fun fact: I am a voice artiste since the past 10 years, having delivered over 50 projects.
+                    <p>⚡ Fun fact: I am a voice artiste since the past 10 years, having delivered over 50 projects.</p>
 
 
                     </p>

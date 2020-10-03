@@ -83,7 +83,7 @@ figure {
   position: fixed;
   overflow: scroll;
   z-index: 1001;
-  background: #f2f3f7;
+  background: #121212;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -106,8 +106,9 @@ figure {
     -ms-border-radius: 50%;
     border-radius: 50%; }
   #colorlib-aside .email {
+    color: #fff;
     display: block;
-    font-size: 12px;}
+    font-size: 14px;}
   #colorlib-aside .number {
     display: block;
     margin-bottom: 2em;
@@ -122,7 +123,7 @@ figure {
     #colorlib-aside #colorlib-logo a {
       display: block;
       text-align: center;
-      color: #000;
+      color: #fff;
       padding-right: .3em; }
   #colorlib-aside #colorlib-main-menu {
     display: block;

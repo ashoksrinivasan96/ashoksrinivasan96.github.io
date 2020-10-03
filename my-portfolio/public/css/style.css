@@ -139,10 +139,10 @@ figure {
           margin: 0 0 2em 0; } }
       #colorlib-aside #colorlib-main-menu ul li {
         margin: 0 0 10px 0;
-        padding: 0;
+        padding-top: 10px;
         list-style: none;
-        font-size: 12px;
-        font-weight: 500;
+        font-size: 14px;
+        font-weight: 700;
         text-transform: uppercase;
         letter-spacing: 1px; }
         #colorlib-aside #colorlib-main-menu ul li a {
